@@ -18,7 +18,7 @@ Provisioned Tenant and mapped users to policies following the principle of least
 
 ## Screenshots
 
-![Description of the image](screenshots/practice-shot.png)
+![Description of the image](screenshots/practition.png)
 
 ## Security Lessons Learned
 
