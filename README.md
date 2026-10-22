@@ -13,4 +13,4 @@ Updated repo to practice prior to doing real labs. Benefit is substantial.
 
 Here is a link: [Microsoft Entra documentation])https://learn.microsoft.com/entra/)
 
-![A practice screenshot](screenshots/practice-shot.png)
+![A practice screenshot](screenshots/practition.png)
